@@ -1,0 +1,10 @@
+﻿indicator,label,confirmed,not_identified,uncertain,not_applicable,denominator,confirmed_coverage_percent,interpretation
+electricity,Electricity-side focus,181,7,0,1,189,95.8,Confirmed documentation coverage in the cited-publication inventory; other decision states do not imply topic absence.
+hydrogen,Explicit hydrogen coupling,38,150,0,1,189,20.1,Confirmed documentation coverage in the cited-publication inventory; other decision states do not imply topic absence.
+hydrogen_storage,Electricity–hydrogen–storage,33,155,0,1,189,17.5,Confirmed documentation coverage in the cited-publication inventory; other decision states do not imply topic absence.
+dynamic,Temporal/agent/learning methods,91,97,0,1,189,48.1,Confirmed documentation coverage in the cited-publication inventory; other decision states do not imply topic absence.
+equity,Equity/service-fairness analysis,11,171,6,1,189,5.8,Confirmed documentation coverage in the cited-publication inventory; other decision states do not imply topic absence.
+critical_load,Priority/critical-load outcome (M3),42,146,0,1,189,22.2,Confirmed documentation coverage in the cited-publication inventory; other decision states do not imply topic absence.
+synthetic_network,Explicit test-network experiment,85,0,77,27,189,45.0,Confirmed documentation coverage in the cited-publication inventory; other decision states do not imply topic absence.
+observed_inputs,Observed/empirical inputs,26,30,109,24,189,13.8,Confirmed documentation coverage in the cited-publication inventory; other decision states do not imply topic absence.
+institutional,Institutional/coordination mechanism,52,136,0,1,189,27.5,Confirmed documentation coverage in the cited-publication inventory; other decision states do not imply topic absence.
